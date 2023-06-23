@@ -42,11 +42,11 @@ public class SnakeAndLadder {
             }
         }
          if ( PLAYER<TARGET){
-            System.out.println("\nComputer has Won the game");
+            System.out.println("omputer has Won the game");
         }else {
-            System.out.println("\nYOU HAVE WON!!!" );
+            System.out.println("Hurrah! you won the game!!!" );
         }
 
-        System.out.println("\nThe score of s: " + PLAYER);
+        System.out.println("The score of s: " + PLAYER);
     }
 }
