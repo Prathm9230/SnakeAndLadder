@@ -9,7 +9,7 @@ public class SnakeAndLadder {
     public static void main(String[] args) {
         Random random = new Random();
         Random c = new Random();
-            //UC-1
+        
             System.out.println("Welcome! to Snake And Ladder Game.");
             for(int i=0;i<35;i++){
                 if(PLAYER==100)
